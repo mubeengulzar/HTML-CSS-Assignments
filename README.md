@@ -1,5 +1,5 @@
-# PIAIC-HTML-CSS-Assignments
-PIAIC HTML and CSS Assignments Description.
+# HTML-CSS-Assignments
+HTML and CSS Assignments Description.
 
 [```HTML AND CSS BOOK PDF``` ](HTMLAndCSSBook.pdf)
 
@@ -23,11 +23,3 @@ PIAIC HTML and CSS Assignments Description.
   12. Final Assignment of CSS - Portfolio[ JPG](Final_Assignment_of_CSS/Company-Portfolio.jpg) | [ PDF ](Final_Assignment_of_CSS/Company_Portfolio.pdf) | [ PSD ](Final_Assignment_of_CSS/Company_Portfolio.psd) | [ AI ](Final_Assignment_of_CSS/Company_Portfolio.ai)  - [README.md](Final_Assignment_of_CSS/README.md)
 
 ----------------------
-
-### Announcement:-
-
-#### PIAIC CNC HTML CSS Batch 36-37
-
-For all the assignments that you complete in the class or in the video lectures, you will need to upload them to a single GitHub repository. After that, you will need to attach the GitHub link in a Google Form. By doing this, it will make it easier for us to check and grade your assignments.
-
-https://forms.gle/XXgygLcEUcTA4ocn7
